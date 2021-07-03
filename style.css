@@ -1,0 +1,50 @@
+body{
+	font-family: 'Pacifico', cursive;
+	font-family: 'Lobster', cursive;
+	font-family: 'Caveat', cursive;
+	background: url(fon2.jpg);
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	background-color: lightcoral;
+}
+.img{
+	margin:0;
+}
+a{
+	text-decoration: none;
+	color: darkblue;
+}
+a: hover{
+	color: purple;
+}
+h2{
+	background-color: lightblue ;
+}
+.img{
+	width: 20%;
+	margin-left: 80%;
+}
+p{
+	font-size: 130%;
+	color: #8E35EF;
+}
+.p1{
+	background-color:lightblue;
+}
+div{
+	width:20% ;
+	background-color: purple;
+	display: inline-block;
+}
+.p2{
+	color: white;
+}
+.img3{
+	width: 40%;
+}
+img{
+	border: 6px solid darkblue;
+	border-radius: 4px;
+}
