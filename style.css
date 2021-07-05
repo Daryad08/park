@@ -4,20 +4,21 @@ body{
 	font-family: 'Caveat', cursive;
 	background: url(fon2.jpg);
 }
-h1{
+header{
 	text-align: center;
 	text-decoration: underline;
 	background-color: lightcoral;
+
 }
 .img{
 	margin:0;
 }
 a{
 	text-decoration: none;
-	color: darkblue;
+	color: white;
 }
-a: hover{
-	color: purple;
+	a:hover{
+	color: darkcyan;
 }
 h2{
 	background-color: lightblue ;
@@ -42,9 +43,18 @@ div{
 	color: white;
 }
 .img3{
-	width: 40%;
+	width: 80%;
+	margin: 10%;
 }
 img{
 	border: 6px solid darkblue;
 	border-radius: 4px;
+}
+.img2{
+	width: 70%;
+	margin: 15% ;
+}
+.img1{
+	width: 70%;
+	margin: 15%;
 }
